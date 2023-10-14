@@ -26,5 +26,3 @@ def fizzbuzz():
         else: 
             print(x)
         x+=1
-
-fizzbuzz()
